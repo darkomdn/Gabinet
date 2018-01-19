@@ -1,0 +1,12 @@
+c:\users\darek\documents\visual studio 2015\Projects\Logowanie001\Logowanie001\bin\Debug\Logowanie001.exe.config
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\obj\Debug\Logowanie001.csprojResolveAssemblyReference.cache
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\obj\Debug\Logowanie001.Form1.resources
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\obj\Debug\Logowanie001.Properties.Resources.resources
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\obj\Debug\Logowanie001.csproj.GenerateResource.Cache
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\bin\Debug\Logowanie001.exe
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\bin\Debug\Logowanie001.pdb
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\bin\Debug\MySql.Data.dll
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\bin\Debug\MySql.Data.xml
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\obj\Debug\Logowanie001.exe
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\obj\Debug\Logowanie001.pdb
+C:\Users\Darek\Documents\Visual Studio 2015\Projects\Logowanie001\Logowanie001\obj\Debug\Logowanie001.ProgramGlowny.resources
